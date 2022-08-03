@@ -1,0 +1,27 @@
+@media (max-width: 650px) {
+
+    #container {
+        height: 70%;
+        width: 30%;
+    }
+    
+    #star {
+        margin-top: 0px;
+        margin-bottom: 20px;
+        margin-left: 35px;
+        margin-right: auto;
+    }
+
+    h1 {
+        margin-left: 35px;
+    }
+
+    #feedback {
+        padding: 3px 35px 5px 35px;
+    }
+
+    #rating {
+        width: 85%;
+    }
+
+}
