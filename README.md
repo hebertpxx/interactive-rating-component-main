@@ -1,4 +1,4 @@
-# Frontend Mentor - Ping coming soon page
+# Frontend Mentor - Interactive Rating Component Main
 
 ![Design preview for the Interactive Rating Component Main page coding challenge](/design/desktop-design.png)
 
@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+**To do this challenge, i needed a basic understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
 
@@ -16,7 +16,7 @@ The challenge was to build out this interactive rating component and get it look
 
 It was allowed to use any tools you like to help you complete the challenge.
 
-Your users should be able to:
+The users should be able to:
 
 Select and submit a number rating
 See the "Thank you" card state after submitting a rating
